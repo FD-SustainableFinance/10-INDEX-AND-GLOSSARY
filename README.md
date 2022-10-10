@@ -9,3 +9,32 @@
 
 # [10] INDEX AND GLOSSARY
 [Under Development]
+
+## Index
+[Add index as a widget]
+
+## Glossary
+- BCBS - Basal Committee on Banking Supervision
+- CDP - Carbon Disclosure Project
+- CDSB - Climate Disclosures Standards Board
+- CSRD - The Corporate Sustainability Reporting Directive (CSRD)
+- EBA Pillar 3 - Europena Banking Authority Pillar 3
+- EFRAG - European Financial Reporting Advisory Group
+- GHG Protocol - Greenhouse Gas Protocol
+- GICS - Global Industry Classification Standard
+- GRI - Global Reporting Initiative
+- ICB - Industry Classification Benchmark
+- IIRC - International Integrated Reporting Council
+- ISSB - International Sustainability Standards Board
+- NACE - The Statistical Classification of Economic Activities in the European Community
+- NFRD - Non-Financial Reporting Directive
+- NGFS - Network for Greening the Financial System
+- PCAF - Partnership for Carbon Accouting Financials
+- PRI - Principles for Responsible Investing
+- SASB - Sustainability Accounting Standrads Board
+- SEC - Securities Exchange Commission
+- SFDR - Sustainable Finance Disclsoure Regulation
+- SIC - Standard Industrial Classification of Economic Activities
+- TCFD - Task Force on Climate-Related Financial Disclosures
+- TNFD - Task Force on Nature-Related Financial Disclosures
+- TRBC - Thomson Reuters Business Classification

@@ -8,7 +8,6 @@
 - Under development
 ```
 
-
 ## Index
 [Add index as a widget]
 
